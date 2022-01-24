@@ -11,3 +11,6 @@ I've tried to roughly recreate correct ratios of objects and distances etc but e
 3 - Pluto is not a planet, sorry King FlippyNips
 4 - Satellite and Earth moon scales are just random numbers, that's for the "show"
 5 - Main Camera is just a bit further than Uranus and Neptune goes behind so we can see something and even hear Uranus sound playing.
+
+
+![solar-cover](https://user-images.githubusercontent.com/20398186/150865648-d9b5edf1-cd84-41a4-a4d3-f5e6579af041.png)
